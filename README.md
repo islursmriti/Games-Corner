@@ -1,5 +1,7 @@
 # Games-Corner
 
+Click here to play! --> http://games-corner.s3-website.ap-south-1.amazonaws.com/
+
 Game Corner is an application consisting of combination of four different games which are Snake Byte, Alien Attack, CascadeTetris and Memory and Match. This application was built using JavaScript, HTML and CSS.
 
 ## Main page
